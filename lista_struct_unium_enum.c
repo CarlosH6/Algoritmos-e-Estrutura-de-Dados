@@ -90,7 +90,7 @@ int main(void){
 #include <stdio.h>
 
 typedef enum meses {
-  JANEIRO = 1,
+  JANEIRO,
   FEVEREIRO,
   MARCO,
   ABRIL,
