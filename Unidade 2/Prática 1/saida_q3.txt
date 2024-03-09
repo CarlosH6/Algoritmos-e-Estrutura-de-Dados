@@ -1,0 +1,3 @@
+Luiz	6.23	Reprovado
+Roberto	7.40	Aprovado
+Alexandre	6.10	Reprovado
