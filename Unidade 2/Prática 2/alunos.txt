@@ -1,0 +1,2 @@
+Aluno 1 - Nome: carlos, Nota 1: 5.00, Nota 2: 7.00, Nota 3: 3.00
+Aluno 2 - Nome: joao, Nota 1: 7.00, Nota 2: 3.00, Nota 3: 2.00
